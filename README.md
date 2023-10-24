@@ -3,6 +3,7 @@
 ```js
 const ferdi = {
   fullName: "Ferdinand Niemann",
+  location: "Lübeck",
   experience: [
     {
       company: "Coding Bootcamps Europe GmbH",
@@ -19,8 +20,11 @@ const ferdi = {
   ],
   stack: {
     languages: ["TypeScript", "JavaScript", "CSS", "HTML"],
-    frameworks: ["Vue", "React", "Astro", "Remix"],
+    frameworks: ["Vue", "React", "Astro", "Remix", "Node", "Express"],
     tools: ["Directus", "MongoDB", "Supabase", "Firebase", "Figma"],
   },
+  likes: ["Cats 😺", "Eurovision Song Contest 🎤", "Baltic Sea 🌊"],
 };
 ```
+
+<div style="font-family: monospace">LinkedIn: <a href="https://linkedin.com/in/ferniemann">ferniemann</a> | Bluesky: <a href="https://bsky.app/profile/ochferdi.bsky.social">@ochferdi.bsky.social</a> | E-Mail: <a href="mailto:ferdinand.niemann@gmail.com">ferdinand.niemann@gmail.com</a></div>
