@@ -27,4 +27,4 @@ const ferdi = {
 };
 ```
 
-<div style="font-family: monospace">LinkedIn: <a href="https://linkedin.com/in/ferniemann">ferniemann</a> E-Mail: <a href="mailto:ferdinand.niemann@gmail.com">ferdinand.niemann@gmail.com</a></div>
+<div style="font-family: monospace">LinkedIn: <a href="https://linkedin.com/in/ferniemann">ferniemann</a> | E-Mail: <a href="mailto:ferdinand.niemann@gmail.com">ferdinand.niemann@gmail.com</a></div>
