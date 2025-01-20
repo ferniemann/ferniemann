@@ -26,5 +26,3 @@ const ferdi = {
   likes: ["Cats 😺", "Eurovision Song Contest 🎤", "Baltic Sea 🌊"],
 };
 ```
-
-<div style="font-family: monospace">LinkedIn: <a href="https://linkedin.com/in/ferniemann">ferniemann</a> | E-Mail: <a href="mailto:ferdinand.niemann@gmail.com">ferdinand.niemann@gmail.com</a></div>
