@@ -2,7 +2,7 @@
 
 ```js
 const ferdi = {
-  fullName: "Ferdinand Niemann",
+  fullName: "Ferdinand",
   location: "Lübeck",
   experience: [
     {
