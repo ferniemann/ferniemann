@@ -2,7 +2,7 @@
 
 ```js
 const ferdi = {
-  fullName: "Ferdinand",
+  fullName: "Ferdinand Niemann",
   location: "Lübeck",
   experience: [
     {
@@ -26,3 +26,5 @@ const ferdi = {
   likes: ["Cats 😺", "Eurovision Song Contest 🎤", "Baltic Sea 🌊"],
 };
 ```
+
+LinkedIn: [ferniemann](https://linkedin.com/in/ferniemann) // E-Mail: [hello@ferdi.digital](mailto:hello@ferdi.digital) // Website: [ferdi.digital](https://ferdi.digital)
