@@ -7,7 +7,7 @@ const ferdi = {
   experience: [
     {
       company: "Coding Bootcamps Europe GmbH",
-      title: "Trainer",
+      title: "Web Developer & Trainer",
       since: "2021-06",
       isCurrentlyEmployed: true,
     },
