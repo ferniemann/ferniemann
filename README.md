@@ -4,7 +4,7 @@
 {
   "fullName": "Ferdinand Niemann",
   "location": "Lübeck",
-  "experience": [
+  "experiences": [
     {
       "companyName": "Coding Bootcamps Europe GmbH",
       "jobTitle": "Web Developer & Trainer",
@@ -13,8 +13,8 @@
       "isCurrentlyEmployed": true
     },
     {
-      "company": "SuperCode GmbH und Co. KG",
-      "title": "Assistant Trainer",
+      "companyName": "SuperCode GmbH und Co. KG",
+      "jobTitle": "Assistant Trainer",
       "start": "2021-03",
       "end": "2021-06",
       "isCurrentlyEmployed": false
