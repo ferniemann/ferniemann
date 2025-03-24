@@ -1,30 +1,32 @@
-# Currently teaching 👨‍🏫<br>Always learning 📖
+# Currently coding 👨‍💻<br>Always learning 📖
 
-```js
-const ferdi = {
-  fullName: "Ferdinand Niemann",
-  location: "Lübeck",
-  experience: [
+```json
+{
+  "fullName": "Ferdinand Niemann",
+  "location": "Lübeck",
+  "experience": [
     {
-      company: "Coding Bootcamps Europe GmbH",
-      title: "Web Developer & Trainer",
-      since: "2021-06",
-      isCurrentlyEmployed: true,
+      "companyName": "Coding Bootcamps Europe GmbH",
+      "jobTitle": "Web Developer & Trainer",
+      "start": "2021-07",
+      "end": "2025-03",
+      "isCurrentlyEmployed": true
     },
     {
-      company: "SuperCode GmbH und Co. KG",
-      title: "Assistant Trainer",
-      isCurrentlyEmployed: false,
-      since: "2021-03",
+      "company": "SuperCode GmbH und Co. KG",
+      "title": "Assistant Trainer",
+      "start": "2021-03",
+      "end": "2021-06",
+      "isCurrentlyEmployed": false
     },
   ],
-  stack: {
-    languages: ["TypeScript", "JavaScript", "CSS", "HTML"],
-    frameworks: ["Vue", "React", "Astro", "Remix", "Node", "Express"],
-    tools: ["Directus", "MongoDB", "Supabase", "Firebase", "Figma"],
+  "stack": {
+    "languages": ["TypeScript", "JavaScript", "PHP", "CSS", "HTML"],
+    "frameworks": ["Vue", "Nuxt", "React", "Astro", "Remix", "Node", "Express"],
+    "tools": ["Directus", "MongoDB", "Supabase", "Firebase", "Figma"]
   },
-  likes: ["Cats 😺", "Eurovision Song Contest 🎤", "Baltic Sea 🌊"],
-};
+  "likes": ["Cats 😺", "Eurovision Song Contest 🎤", "Baltic Sea 🌊"]
+}
 ```
 
 LinkedIn: [ferniemann](https://linkedin.com/in/ferniemann) // E-Mail: [hello@ferdi.digital](mailto:hello@ferdi.digital) // Website: [ferdi.digital](https://ferdi.digital)
