@@ -6,11 +6,18 @@
   "location": "Lübeck",
   "experiences": [
     {
+      "companyName": "Remind GmbH",
+      "jobTitle": "Senior Fullstack Developer",
+      "start": "2025-04",
+      "end": false,
+      "isCurrentlyEmployed": true
+    },
+    {
       "companyName": "Coding Bootcamps Europe GmbH",
       "jobTitle": "Web Developer & Trainer",
       "start": "2021-07",
       "end": "2025-03",
-      "isCurrentlyEmployed": true
+      "isCurrentlyEmployed": false
     },
     {
       "companyName": "SuperCode GmbH und Co. KG",
